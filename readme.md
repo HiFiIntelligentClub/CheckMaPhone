@@ -16,6 +16,8 @@
 * CheckMaPhone owner can subscribe to local or foreign governement and services communication lines through the adverticing sites in the internet.<br/>
 * All checkMaPhone devices are strictly personalized.<br/>
 * All CheckMaPhone owners must use darkVoiceCommunication devices, becase CheckMaPhone doesn't replace any existiong device or technology. It designed only for pleasure doing legal things in thrusty legal enviroment. Thats all. Dark deals must not be made with CheckMaPhone. <br/>
+* Several owners of CheckMaPhone, could be added to one communication line, al of them could be blocked together, but there are NO group calls. Only side to side.
+* Communication between CheckMaPhones must be organized as point to point data transmission private, without any thirdparty or technology could listen, and this data transmittion  privacy must be perfect, without any exception, because there are no group calls , and all CheckMaPhone owners has only real name and identification inside the CheckMaPhone. This type of communications must be private. 
 <br/>
 The name oh the first model of CheckMaPhone is TTL unIM.<br/>
 <br/>
