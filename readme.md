@@ -1,6 +1,7 @@
 # Base: CheckMaPhone - new generation of communication devices, 
 * Communication device without touch screen and keyboard.<br/>
 * Only voice commands and Camera based communications.<br/><br/>
+* CheckMaPhone is attributed to real human Id(Passport in RUssia) only one time for one device.
 
 * First of all, CHeckMaPhone can-not receive calls before CheckMaPhone owner adds a **communication line** <br/>
 * Second is that **CheckMaPhone is stricktly personal and contains real name and surename, that couldnt be hidden or changed by anyone without exseption**, and CheckMaPhone owner **can't do or receive anonimous call** and **can not change any real name n phone book or the own name**.<br/>
@@ -17,7 +18,7 @@
 * All checkMaPhone devices are strictly personalized.<br/>
 * All CheckMaPhone owners must use darkVoiceCommunication devices, becase CheckMaPhone doesn't replace any existiong device or technology. It designed only for pleasure doing legal things in thrusty legal enviroment. Thats all. Dark deals must not be made with CheckMaPhone. <br/>
 * Several owners of CheckMaPhone, could be added to one communication line, al of them could be blocked together, but there are NO group calls. Only side to side.
-* Communication between CheckMaPhones must be organized as point to point data transmission private, without any thirdparty or technology could listen, and this data transmittion  privacy must be perfect, without any exception, because there are no group calls , and all CheckMaPhone owners has only real name and identification inside the CheckMaPhone. This type of communications must be private. 
+* Communication between CheckMaPhones must be organized as point to point data transmission private, without any thirdparty or technology could listen not from the first point or the only one second point at a single time (per communication session or call) , and this data transmission  privacy must be perfect or absulot, without any exception, because CheckMaPhone ownerrs has no group calls , and all CheckMaPhone owners has only real name and identification inside the CheckMaPhone. This type of communications must be private.  CheckMaPhone is attributed to real human Id(Passport in RUssia)
 <br/>
 The name oh the first model of CheckMaPhone is TTL unIM.<br/>
 <br/>
