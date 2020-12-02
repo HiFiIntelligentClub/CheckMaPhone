@@ -4,7 +4,7 @@
 
 * First of all, CHeckMaPhone can-not receive calls before CheckMaPhone owner adds a **communication line** <br/>
 * Second is that **CheckMaPhone is stricktly personal and contains real name and surename, that couldnt be hidden or changed by anyone without exseption**, and CheckMaPhone owner **can't do or receive anonimous call** and **can not change any real name n phone book or the own name**.<br/>
-* After marriage, please by the new one.
+* After marriage, please buy the new one.
 * Only user who has the communication line can communicate and yell up or make a call to this line creator.<br/>
 * Line creator can call back.
 * CheckMaPhone owner can reject adding communication line, and discommunicate from any communication line, and block incomming yells or calls or communication requests from any line.
