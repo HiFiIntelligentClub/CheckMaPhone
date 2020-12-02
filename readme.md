@@ -1,5 +1,5 @@
 # Base: CheckMaPhone - new generation of communication devices, 
-* Comunication device without touch screen and keyboard.<br/>
+* Communication device without touch screen and keyboard.<br/>
 * Only voice commands and Camera based communications.<br/><br/>
 
 * First of all, CHeckMaPhone can-not receive calls before CheckMaPhone owner adds a **communication line** <br/>
